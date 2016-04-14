@@ -127,10 +127,11 @@ a, a:hover {
 
 #portfolio-section {
     background-color: green;
+    height: 100%;
 }
 
 #about-section {
-    background-image: url('img/hello.jpg');
+    background-image: url('https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/hello.jpg');
     background-attachment: fixed;
     color: #ffffff;
     background-size: cover;
@@ -145,8 +146,11 @@ a, a:hover {
   list-style: none;
   display: inline-block;
   margin-left: 30%;
-  margin-top: 15%;
+  margin-top: 5%;
   text-align: center;
+  padding: 1%;
+  background: rgba(0, 0, 0, 0.676);
+  border-radius: 12px;
 }
 
 #social-icons li {
@@ -158,4 +162,5 @@ a, a:hover {
 
 #contact-section {
     background-color: teal;
+    height: 100%;
 }
