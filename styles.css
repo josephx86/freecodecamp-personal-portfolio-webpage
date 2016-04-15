@@ -129,7 +129,7 @@ a, a:hover {
 
 #portfolio-section {
     min-height: 100%;
-  background-image: url('img/lost_cat.jpg');
+  background-image: url('https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/lost_cat.jpg');
   background-attachment: fixed;
   background-size: cover;
   padding-bottom: 3%;
@@ -194,7 +194,7 @@ a, a:hover {
 
 figure {
   background-color: rgba(0, 0, 0, 0.676);
-  border-width: 9px;
+  border-width: 1px;
   border-color: rgba(0, 0, 0, 0.176);
   border-style: solid;
   box-sizing: border-box;

@@ -79,7 +79,7 @@
                     <figure>
                         <a href="http://www.tornadodome.com" target="_blank"> <img
                             class="img-responsive" alt="Tornado Dome"
-                            src="img/tornado.png">
+                            src="https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/tornado.png">
                         </a>
                         <figcaption>
                             <a href="http://www.tornadodome.com" target="_blank">
@@ -94,7 +94,7 @@
                         <a href="http://www.backyardscienceimprint.com/"
                             target="_blank"> <img class="img-responsive"
                             alt="Houdini and the Magic Molt"
-                            src="img/houdini.png"></a>
+                            src="https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/houdini.png"></a>
                         <figcaption>
                             <a href="http://www.backyardscienceimprint.com/"
                                 target="_blank"><span>Houdini and the Magic Molt</span><br />
@@ -109,7 +109,7 @@
                     <figure>
                         <a href="http://www.pixispace.com" target="_blank"> <img
                             class="img-responsive" alt="Pixispace"
-                            src="img/pixispace.jpg">
+                            src="https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/pixispace.jpg">
                         </a>
                         <figcaption>
                             <a href="http://www.pixispace.com" target="_blank">
@@ -123,7 +123,8 @@
                     <figure>
                         <a href="http://codepen.io/josephx86/full/XdaGpm/"
                             target="_blank"> <img class="img-responsive"
-                            alt="Houdini and the Magic Molt" src="img/diana.jpg"></a>
+                            alt="Houdini and the Magic Molt"
+                            src="https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/diana.jpg"></a>
                         <figcaption>
                             <a href="http://codepen.io/josephx86/full/XdaGpm/"
                                 target="_blank"><span>Diana</span><br /> <small>codepen.io/josephx86/full/XdaGpm</small></a>
