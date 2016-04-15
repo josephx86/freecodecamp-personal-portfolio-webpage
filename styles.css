@@ -33,6 +33,12 @@ nav div {
        margin: 0 auto;
        box-sizing: border-box;
     }
+    .section-box {
+        padding: 0% 1%;
+        border-width: 0px 2px;
+        border-color: rgba(0, 0, 0, 0.376);
+        border-style: solid;
+    }
     nav div{
         padding-left: 0px;
         padding-right: 0px;
@@ -99,12 +105,8 @@ nav div {
 }
 
 a, a:hover {
-  text-decoration: none;
-  color: #ffffff;
-}
-
-.section-box {
-    padding: 1%;
+  text-decoration: none !important;
+  color: #ffffff !important;
 }
 
 #avatar {
@@ -126,8 +128,11 @@ a, a:hover {
 }
 
 #portfolio-section {
-    background-color: green;
-    height: 100%;
+    min-height: 100%;
+  background-image: url('img/lost_cat.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  padding-bottom: 3%;
 }
 
 #about-section {
@@ -139,8 +144,30 @@ a, a:hover {
     min-height: 100%;
 }
 
+.separator {
+  width: 50%;
+  height: 5px;
+  background-color: #444444;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  opacity: 0.8;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-title {
+  font-size: 1.4em;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff;
+    margin: 0% -1%;
+  text-align: center;
+  padding: 1%;
+  background-color: rgba(0, 0, 0, 0.576);
+}
+
 #social-icons {
-  
   position: relative;
   color: #000000;
   list-style: none;
@@ -163,4 +190,17 @@ a, a:hover {
 #contact-section {
     background-color: teal;
     height: 100%;
+}
+
+figure {
+  background-color: rgba(0, 0, 0, 0.676);
+  border-width: 9px;
+  border-color: rgba(0, 0, 0, 0.176);
+  border-style: solid;
+  box-sizing: border-box;
+}
+
+figcaption {
+  padding: 3px;
+  text-align: right;
 }
