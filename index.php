@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
 <meta charset="utf-8">
-<title>Insert title here</title>
+<title>Joseph - Personal Personal Portfolio</title>
 <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'
     type='text/css'>
 <link rel="stylesheet"
