@@ -141,7 +141,7 @@ a, a:hover {
 
 #contact-section {   
   min-height: 100%;
-  background-image: url('img/type.jpg');
+  background-image: url('https://raw.githubusercontent.com/josephx86/freecodecamp-personal-portfolio-webpage/master/img/type.jpg');
   background-size: cover;
   padding-bottom: 3%;
 }
