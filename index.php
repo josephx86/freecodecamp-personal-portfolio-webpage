@@ -55,7 +55,7 @@
                     As a Software Developer, I enjoy formulating algorithms from
                     user requirements and transforming them into computer
                     programs for desktop, web, and mobile platforms. I love open
-                    source software and technologies, <a
+                    source software and technologies, <a class="underlined"
                         href="https://getfedora.org/" target="_blank">Fedora</a>
                     being my favorite.
                 </p>
@@ -179,8 +179,8 @@
             
             
             <p class="text-center">
-                Free images from <a href="http://www.gratisography.com/"
-                    target="_blank">gratisography.com</a>
+                Free images from <a class="underlined"
+                    href="http://www.gratisography.com/" target="_blank">gratisography.com</a>
             </p>
         </footer>
         <script src="https://code.jquery.com/jquery-1.12.3.min.js"
